@@ -33,6 +33,10 @@ class Awesome < ActiveRecord::Base
 end
 {% endhighlight %}
 
+{% highlight xml %}
+<img src="madonna.jpg" alt='Foligno Madonna, by Raphael' />
+{% endhighlight %}
+
 # Headings!
 
 They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
