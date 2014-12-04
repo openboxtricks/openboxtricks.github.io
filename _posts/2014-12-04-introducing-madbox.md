@@ -31,3 +31,5 @@ If you are familiar with _Ubuntu_ and want to try _openbox_ then _Madbox_
 is a great place to start.  The livecd gets you up and running with 
 a good looking desktop, the _tint2_ taskbar, a nicely configured _openbox menu_ 
 and an attractive _conky_ displaying the time and date.
+
+![desktop](http://madbox.tuxfamily.org/images/madbox_14/madbox_14_01.jpg)
