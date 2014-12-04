@@ -6,7 +6,10 @@ summary:    Instant off is no fun at all
 categories: jekyll pixyll
 ---
 
-http://askubuntu.com/questions/362914/how-to-prevent-the-power-button-to-shutdown-directly-the-system
+Without a session manager the default setting for the power button is to
+instantly shutdown your computer.  This is particularly problematic on a
+laptop where the power key may be close to the keyboard.  To disable the
+power button follow these instructions:
 
 Check your `/etc/systemd/logind.conf` file.
 
@@ -35,7 +38,15 @@ It should look like this:
 {% endhighlight %}
 
 Uncomment the line that says `#HandlePowerKey=poweroff` 
-and change the value to `ignore`. ie `HandlePowerKey=ignore`
+and change the value to `ignore`
 
-Then restart the logind with the command `sudo restart systemd-logind`
+    HandlePowerKey=ignore
+
+Then restart the logind with the command
+
+    sudo restart systemd-logind`
+
 or reboot your computer.
+
+[source](http://askubuntu.com/questions/362914/how-to-prevent-the-power-button-to-shutdown-directly-the-system)
+
