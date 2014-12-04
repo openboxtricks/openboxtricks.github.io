@@ -34,4 +34,8 @@ and an attractive _conky_ displaying the time and date.
 
 ![desktop](http://madbox.tuxfamily.org/images/madbox_14/madbox_14_02.jpg)
 
+One thing that _Madbox_ really gets right for me is the minimal 
+amount of preinstalled software.  This reduces the amount of things 
+I inevitably have to remove before installing what I want.
+
 ![desktop](http://madbox.tuxfamily.org/images/madbox_14/madbox_14_03.jpg)
