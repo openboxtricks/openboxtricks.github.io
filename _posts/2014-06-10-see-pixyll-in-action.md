@@ -33,6 +33,8 @@ class Awesome < ActiveRecord::Base
 end
 {% endhighlight %}
 
+There is even xml!
+
 {% highlight xml %}
 <img src="madonna.jpg" alt='Foligno Madonna, by Raphael' />
 {% endhighlight %}
