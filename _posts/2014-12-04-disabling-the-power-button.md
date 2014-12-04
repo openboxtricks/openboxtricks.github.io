@@ -44,7 +44,7 @@ and change the value to `ignore`
 
 Then restart the logind with the command
 
-    sudo restart systemd-logind`
+    sudo restart systemd-logind
 
 or reboot your computer.
 
