@@ -10,7 +10,7 @@ The font settings in lxappearance never worked for me.  Here is how I solved thi
 
 put the following in `~/.Xresources`
 
-{% highlight none %}
+{% highlight bash %}
     Xft.dpi: 100
     Xft.antialias: true
     Xft.hinting: true
