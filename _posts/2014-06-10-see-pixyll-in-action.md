@@ -37,7 +37,7 @@ end
 <img src="madonna.jpg" alt='Foligno Madonna, by Raphael' />
 {% endhighlight %}
 
-# Headings!
+### Headings!
 
 They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
 They also heavily rely on the awesome utility, [BASSCSS](http://www.basscss.com/).
