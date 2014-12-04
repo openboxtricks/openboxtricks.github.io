@@ -6,9 +6,9 @@ summary:    Ubuntu with openbox is not at all mad
 categories: jekyll pixyll
 ---
 
-Madbox is my new favourite distribution.  
+Madbox is my new favourite GNU/Linux distribution.  
 
-http://madbox.tuxfamily.org/
+[http://madbox.tuxfamily.org](http://madbox.tuxfamily.org)
 
 >Madbox GNU / Linux is a distribution based on Ubuntu with Openbox as a window manager.
 
