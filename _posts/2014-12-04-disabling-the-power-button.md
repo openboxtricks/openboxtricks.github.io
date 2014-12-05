@@ -15,7 +15,7 @@ Check your `/etc/systemd/logind.conf` file.
 
 It should look like this:
 
-{% highlight ruby %}
+{% highlight bash %}
 [Login]
 #NAutoVTs=6
 #ReserveVT=6
@@ -40,7 +40,7 @@ It should look like this:
 Uncomment the line that says `#HandlePowerKey=poweroff` 
 and change the value to `ignore`
 
-{% highlight ruby %}
+{% highlight bash %}
 HandlePowerKey=ignore
 {% endhighlight %}
 
