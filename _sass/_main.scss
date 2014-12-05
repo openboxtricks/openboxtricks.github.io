@@ -58,15 +58,16 @@ body {
 }
 
 .site-header a {
-  color: #666;
+  /*color: #666;*/
+  color: #772953;
   font-weight: 300;
   font-size: 2.75rem;
 }
 
 .site-header nav a {
   font-size: 1rem;
-  /*color: #666;*/
-  color: #772953;
+  color: #666;
+  
 }
 
 .site-header nav a:hover {
