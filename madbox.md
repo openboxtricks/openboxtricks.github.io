@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Madbox
+title: Introducing Madbox 14.04
 permalink: /madbox/
 ---
 
