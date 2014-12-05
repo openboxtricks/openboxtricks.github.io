@@ -12,6 +12,8 @@ Madbox is my new favourite GNU/Linux distribution.
 
 [http://madbox.tuxfamily.org](http://madbox.tuxfamily.org)
 
+![desktop](http://madbox.tuxfamily.org/images/madbox_14/madbox_14_01.jpg)
+
 ###Discovering Openbox
 
 I finally moved to running _GNU/Linux_ exclusively with _Lubuntu 
