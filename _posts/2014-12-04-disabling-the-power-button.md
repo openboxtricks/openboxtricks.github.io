@@ -40,11 +40,15 @@ It should look like this:
 Uncomment the line that says `#HandlePowerKey=poweroff` 
 and change the value to `ignore`
 
-    HandlePowerKey=ignore
+{% highlight ruby %}
+HandlePowerKey=ignore
+{% endhighlight %}
 
 Then restart the logind with the command
 
-    sudo restart systemd-logind
+{% highlight bash %}
+sudo restart systemd-logind
+{% endhighlight %}
 
 or reboot your computer.
 
