@@ -11,6 +11,8 @@
   Crafted with <3 by John Otander (@4lpine) - ©2014 John Otander
   MIT License http://opensource.org/licenses/MIT
 
+  dd4814; is ubuntu orange
+
 */
 
 body {
@@ -65,8 +67,7 @@ body {
 
 .site-header nav a {
   font-size: 1rem;
-  /*color: #666;*/
-  color: #dd4814; /*ubuntu orange*/
+  color: #dd4814;
 }
 
 .site-header nav a:hover {
@@ -114,8 +115,7 @@ body {
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  /*color: #333;*/
-  color: #dd4814; /*ubuntu orange*/
+  color: #dd4814;
 }
 
 .post-footer {
@@ -174,7 +174,6 @@ body {
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
-  /*color: #7a7a7a;*/
   color: #999;
   font-style: italic;
 }
@@ -269,7 +268,7 @@ h6,
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
-  color: #dd4814; /*ubuntu orange*/
+  color: #dd4814;
 }
 
 .social-icons {
@@ -396,7 +395,7 @@ h6,
 }
 
 
-/*@media screen and (min-width: 64em) {
+@media screen and (min-width: 64em) {
   .h1,
   h1 {
     font-size: 4.498rem;
@@ -436,7 +435,7 @@ h6,
     margin-bottom: .666em;
     padding-bottom: 0;
   }
-}*/
+}
 
 footer {
   border-top: thin solid #f3f3f3;
