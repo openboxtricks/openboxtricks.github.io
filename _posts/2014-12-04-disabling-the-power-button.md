@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Disabling the power button
+title:      disabling the power button
 date:       2014-12-04
 summary:    Instant off is no fun at all
 categories: jekyll pixyll
