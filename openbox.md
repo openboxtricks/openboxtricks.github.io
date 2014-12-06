@@ -14,4 +14,5 @@ Openbox is a highly configurable window manager. It allows you to change almost 
 
 Openbox makes desktop environments better. By running Openbox inside the GNOME or K desktop environments, you can combine their ease and functionality with the power of Openbox. Your desktop becomes cleaner and faster, and is in your control, when you use Openbox. 
 
+
 <a href="{{ site.baseurl }}/madbox/">madbox</a>
