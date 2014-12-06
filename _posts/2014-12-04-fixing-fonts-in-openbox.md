@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Smooth fonts in openbox
+title:      smooth fonts in openbox
 date:       2014-12-04
 summary:    How to make fonts look great in openbox
 categories: jekyll pixyll
