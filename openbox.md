@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Openbox
+title: openbox
 permalink: /openbox/
 ---
 
