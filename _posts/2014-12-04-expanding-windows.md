@@ -38,5 +38,5 @@ Set up a keybind
 </keybind>
 {% endhighlight %}    
 
-This can also be triggered by doubleclicking on the taskbar or one 
-of the window controls, for example the rollup icon
+This can also be made to be triggered by doubleclicking on the 
+taskbar or one of the window controls, for example the rollup icon
