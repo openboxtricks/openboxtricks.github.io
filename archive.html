@@ -4,7 +4,6 @@ title: Archive
 permalink: /archive/
 ---
 
-  <div class="posts">
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
@@ -14,7 +13,4 @@ permalink: /archive/
         </a>
       </div>
     {% endfor %}
-  </div>
-
-  {% include pagination.html %}
 
