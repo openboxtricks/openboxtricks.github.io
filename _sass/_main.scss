@@ -89,7 +89,7 @@ body {
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.488;
+  opacity: 0.88;
 }
 
 .related-post-title {
@@ -176,6 +176,7 @@ body {
   padding: .25em 0;
   color: #bbb;
   font-style: italic;
+  text-align: right;
 }
 
 .pagination .button {
