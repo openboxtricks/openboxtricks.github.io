@@ -3,7 +3,7 @@ layout:     post
 title:      smooth fonts in openbox
 date:       2014-12-04
 summary:    How to make fonts look great in openbox
-categories: jekyll pixyll
+categories: openbox fonts
 ---
 
 The font settings in lxappearance never worked for me.  Here is how I solved this issue:
