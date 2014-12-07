@@ -17,3 +17,7 @@ put the following in `~/.config/openbox/rc.xml` in the `<applications>` section
     <decor>no</decor>
 </application>
 {% endhighlight %}    
+
+You can use the empty area of the tabbar to move the window.  Close 
+with the menu or a keyboard shortcut.  How often do you close your 
+browser anyway?
