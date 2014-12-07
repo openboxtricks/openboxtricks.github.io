@@ -7,7 +7,7 @@ categories: openbox windows
 ---
 
 You can have place a window in an empty area of desktop and have it 
-expand to fill the space.  This lets you quickly arange a few windows.
+expand to fill the space.  This lets you quickly arrange a few windows.
 
 Set up a keybind
 
