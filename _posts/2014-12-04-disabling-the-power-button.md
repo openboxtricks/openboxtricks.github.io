@@ -3,7 +3,7 @@ layout:     post
 title:      disabling the power button
 date:       2014-12-04
 summary:    Instant off is no fun at all
-categories: jekyll pixyll
+categories: openbox systemd
 ---
 
 Without a session manager the default setting for the power button is to
