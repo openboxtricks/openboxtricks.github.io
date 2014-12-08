@@ -6,7 +6,7 @@ summary:    display the volume with an osd
 categories: openbox script
 ---
 
-This script can be used to increase or decrease the volume.  Install aosd_cat and then copy this script. Bind it 
+This script can be used to increase or decrease the volume.  Install `aosd_cat` and then copy this script. Bind it 
 to the mousewheel of the desktop or any keys you like.
 
 {% highlight bash %}
