@@ -6,7 +6,10 @@ summary:    display the volume with an osd
 categories: openbox script
 ---
 
-This script can be used to increase or decrease the volume.  Install `aosd_cat` and then copy this script. Bind it 
+__This script can be used to increase, decrease or mute the alsa mixer 
+and display the volume and mute status with an on screen display.__
+
+Install `aosd_cat` and then copy this script. Bind it 
 to the mousewheel of the desktop or any keys you like.
 
 {% highlight bash %}
