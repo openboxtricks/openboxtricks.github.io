@@ -10,9 +10,10 @@ layout: default
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h1 class="h1 post-title tighttop">{{ post.title }}</h1>
-          <article class="post-content">{{ post.content }}</article>
+          
         </a>
       </div>
+      <article class="post-content">{{ post.content }}</article>
     {% endfor %}
   </div>
 
