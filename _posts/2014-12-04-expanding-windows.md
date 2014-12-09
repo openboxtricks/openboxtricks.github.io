@@ -6,6 +6,10 @@ summary:    Have your windows fill an available space
 categories: openbox windows
 ---
 
+__One of the great features of openbox is the ability to script the 
+movement of windows.  You can use this to arrange windows neatly on 
+the screen without use of a tiling wm.__
+
 You can place a window in an empty area of desktop and have it 
 expand to fill the space.  This lets you quickly arrange a few windows.
 
