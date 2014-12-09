@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <div class="posts">
+  <!--<div class="posts">-->
     {% for post in paginator.posts %}
       <div class="post-header mb2">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
@@ -15,7 +15,7 @@ layout: default
       </div>
       <article class="post-content">{{ post.content }}</article>
     {% endfor %}
-  </div>
+  <!--</div>-->
 
 <h3 class="related-post-title"><a href="{{ site.baseurl }}/archive/">see all posts</a></h3>
 
