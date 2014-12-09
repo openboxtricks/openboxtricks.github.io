@@ -125,7 +125,6 @@ body {
   margin-top: 0;
   font-weight: 600;
   color: #dd4814;
-  text-transform: uppercase;
 }
 
 .post-footer {
@@ -282,7 +281,10 @@ h6,
   text-transform: lowercase;
 }
 
+.lc {  text-transform: uppercase;}
+
   .tight {margin: 0 0 0.2em;}
+  
   
  .tighttop {margin-top: 0;}
 
