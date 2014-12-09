@@ -281,12 +281,17 @@ h6,
   text-transform: lowercase;
 }
 
-.lc {  text-transform: uppercase;}
+.lc {
+    text-transform: lowercase;
+}
 
-  .tight {margin: 0 0 0.2em;}
+.tight {
+    margin: 0 0 0.2em;
+}
   
-  
- .tighttop {margin-top: 0;}
+.tighttop {
+    margin-top: 0;
+}
 
 .social-icons {
     padding: 0.5em 0 0 0;
