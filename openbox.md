@@ -40,7 +40,15 @@ the GNOME or K desktop environments, you can combine their ease and
 functionality with the power of Openbox. Your desktop becomes 
 cleaner and faster, and is in your control, when you use Openbox. 
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/vwjSog0V7ZE" frameborder="0" allowfullscreen></iframe>
+###see it in action
+
+Here is the video that inspired me to use openbox as a standalone 
+environment.  Look for the keyboard shortcuts for window snapping 
+and the great minimal look
+
+<iframe width="560" height="315" 
+src="//www.youtube.com/embed/vwjSog0V7ZE" frameborder="0" 
+allowfullscreen></iframe>
 
 
 <a href="{{ site.baseurl }}/madbox/">madbox</a>
