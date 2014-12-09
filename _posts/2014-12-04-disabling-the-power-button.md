@@ -6,9 +6,11 @@ summary:    Instant off is no fun at all
 categories: openbox systemd
 ---
 
-Without a session manager the default setting for the power button is to
+**Without a session manager the default setting for the power button is to
 instantly shutdown your computer.  This is particularly problematic on a
-laptop where the power key may be close to the keyboard.  To disable the
+laptop where the power key may be close to the keyboard.**
+
+To disable the
 power button follow these instructions:
 
 Check your `/etc/systemd/logind.conf` file.
