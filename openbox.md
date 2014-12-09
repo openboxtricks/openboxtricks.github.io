@@ -4,7 +4,7 @@ title: openbox
 permalink: /openbox/
 ---
 
-Openbox is a highly configurable, next generation window manager with extensive standards support.
+**Openbox is a highly configurable, next generation window manager with extensive standards support.**
 
 The *box visual style is well known for its minimalistic appearance. Openbox uses the *box visual style, while providing a greater number of options for theme developers than previous *box implementations. The theme documentation describes the full range of options found in Openbox themes.
 
