@@ -47,7 +47,8 @@ fi
 
 killall aosd_cat &> /dev/null
 
-echo "$A" | aosd_cat -p 8 -y -55 -x -7 -n "Ubuntu bold 22" -u 2000 -o 2000 -R $OSDCOLOR -f 0
+echo "$A" | aosd_cat -p 8 -y -55 -x -7 \
+-n "Ubuntu bold 22" -u 2000 -o 2000 -R $OSDCOLOR -f 0
 
 {% endhighlight %}    
 
