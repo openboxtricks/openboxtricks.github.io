@@ -9,6 +9,8 @@ categories: openbox firefox
 Firefox doesn't hide the titlebar when maximised.  Also I use it 
 halfscreen and the titlebar is surplus to requirements.
 
+![firefox!](/posts/screenshot--091214--16-25-21)
+
 Remove it by placing the following in `~/.config/openbox/rc.xml` in 
 the `<applications>` section
 
