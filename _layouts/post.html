@@ -14,7 +14,7 @@ layout: default
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
   <!--<span class="post-meta small">{{ minutes }} minute read</span>-->
-  <h1 class="h1 tight">{{ page.title }}</h1>
+  <h1 class="h1 tighttop">{{ page.title }}</h1>
 </div>
 
 <article class="post-content">
@@ -30,8 +30,8 @@ layout: default
   {% for post in site.related_posts %}
     <div class="post ml2">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-        <h4 class="tight post-title">{{ post.title }}</h4>
-        <p class="small post-summary">{{ post.summary }}</p>
+        <h4 class="post-title tight">{{ post.title }}</h4>
+        <p class="post-summary small">{{ post.summary }}</p>
       </a>
     </div>
   {% endfor %}
