@@ -6,6 +6,9 @@ summary:    How to make fonts look great in openbox
 categories: openbox fonts
 ---
 
+__Ubuntu has fantastic fonts.  The Ubuntu font itself and also the 
+great font smoothing settings__
+
 The font settings in lxappearance never worked for me.  Here is how I solved this issue:
 
 put the following in `~/.Xresources`
