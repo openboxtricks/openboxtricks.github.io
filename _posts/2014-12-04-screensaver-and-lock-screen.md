@@ -6,8 +6,8 @@ summary:    set your machine up to save power
 categories: openbox power
 ---
 
-Openbox has no screensaver installed. With modern setups the biggest 
-requirement is to power down the monitor or screen.
+__Openbox has no screensaver installed. With modern setups the biggest 
+requirement is to power down the monitor or screen.__
 
 This can be done simply with `xset dpms 600 600 600` (for a 10 
 minute timeout) in the openbox startup script .
