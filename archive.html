@@ -7,8 +7,8 @@ permalink: /archive/
 {% for post in site.posts %}
     <div class="post ml2">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-        <span class="tight post-title">{{ post.title }}: </span>
-        <span class="small post-summary">{{ post.summary }}</span>
+        <span class="h4 tight post-title">{{ post.title }}: </span>
+        <span class="p small post-summary">{{ post.summary }}</span>
       </a>
     </div>
 {% endfor %}
