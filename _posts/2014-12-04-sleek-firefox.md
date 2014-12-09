@@ -6,8 +6,10 @@ summary:    Making firefox look better
 categories: openbox firefox
 ---
 
-Firefox doesn't hide the titlebar when maximised.  Also I use it 
-halfscreen and the titlebar is surplus to requirements.
+__Firefox doesn't hide the titlebar when maximised.  Also I use it 
+halfscreen and the titlebar is surplus to requirements.__
+
+Here, openbox's undecorate feature somes to our rescue.
 
 ![firefox!](/images/screenshot--091214--16-25-21.png)
 
@@ -20,6 +22,6 @@ the `<applications>` section
 </application>
 {% endhighlight %}    
 
-You can use the empty area of the tabbar to move the window.  Close 
-with the menu or a keyboard shortcut.  How often do you close your 
-browser anyway?
+You can use the empty area of the tabbar or the alt key to move the 
+window.  Close with the menu or a keyboard shortcut.  How often do 
+you close your browser anyway?
