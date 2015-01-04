@@ -12,10 +12,7 @@ layout: default
         </a>
       </div>
       <article class="post-content">{{ post.content }}</article>
-    {% endfor %}
-  <!--</div>-->
-  <h3 class="post-title"><a href="{{ site.baseurl }}/archive/">see all posts</a></h3>
-  {% if site.show_related_posts %}
+    {% if site.show_related_posts %}
   <h3 class="related-post-title">Related Posts</h3>
   {% for post in site.related_posts %}
     <div class="post">
@@ -26,5 +23,8 @@ layout: default
     </div>
   {% endfor %}
 {% endif %}
+    {% endfor %}
+  <!--</div>-->
+  <h3 class="post-title"><a href="{{ site.baseurl }}/archive/">see all posts</a></h3>
   {% include pagination.html %}
 </div>
