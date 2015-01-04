@@ -12,17 +12,6 @@ layout: default
         </a>
       </div>
       <article class="post-content">{{ post.content }}</article>
-    {% if site.show_related_posts %}
-  <h3 class="related-post-title">Related Posts</h3>
-  {% for post in site.related_posts %}
-    <div class="post">
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-        <h4 class="post-title tight">{{ post.title }}</h4>
-        <p class="post-summary tighttop small">{{ post.summary }}</p>
-      </a>
-    </div>
-  {% endfor %}
-{% endif %}
     {% endfor %}
   <!--</div>-->
   <h3 class="post-title"><a href="{{ site.baseurl }}/archive/">see all posts</a></h3>
