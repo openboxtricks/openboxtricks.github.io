@@ -426,6 +426,10 @@ strong, .bold {
   float: right;
 }
 
+.center {
+  float: center;
+}
+
 .clearfix:before, .clearfix:after {
   content: " ";
   display: table;
