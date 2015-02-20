@@ -24,8 +24,9 @@ layout: default
   {% include post_footer.html %}
 {% endif %}
 
-  {% include pagination.html %}
-
+   <div class="left">
+      <a class="pagination-item" href="{{ site.baseurl }}/archive/">Archive</a>
+  </div>
 
 {% if site.show_related_posts %}
   <h3 class="related-post-title">Related Posts</h3>
